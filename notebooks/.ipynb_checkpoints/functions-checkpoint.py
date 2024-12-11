@@ -107,7 +107,7 @@ def rename_columns(df):
         'EUl8f':'engineering_skills',  'EUl8g':'technical_skills', 'l30a':'obstacle_labor_reg',
         'l30b':'obstacle_educated_workers', 'm1a':'biggest_obstacle', 'n2a':'labor', 'n2e':'raw_material', 
         'n2b':'cost_elctricity','n2p':'cost_goods_sold', 'n2e1':'cost_raw_material',
-        'COVg2':'weeks_remain_open', 'n7a':'machinery_value', 'n7a':'machinery_value', 'EUb7':'age_top_manager', 
+        'COVg2':'weeks_remain_open', 'n7a':'machinery_value', 'EUb7':'age_top_manager', 
         'EUb8':'education_top_manager', 'EUb9':'citizenship_top_manager', 'EUb10':'multinational_exp_top_manager'
     }
     
